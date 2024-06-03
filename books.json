@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "published_year": 1960,
+        "isbn": "9780061120084"
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "year": 1925,
+        "published_year": 1925,
+        "isbn": "9780743273565"
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "year": 1813,
+        "published_year": 1813,
+        "isbn": "9780486284736"
+    },
+    {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-age",
+        "year": 1951,
+        "published_year": 1951,
+        "isbn": "9780316769488"
+    },
+    {
+        "id": 5,
+        "title": "aa",
+        "author": "aaa",
+        "genre": "aa",
+        "year": "12",
+        "published_year": "12",
+        "isbn": "12"
+    }
+]
